@@ -1,0 +1,22 @@
+## Passo a Passo do Projeto
+
+
+Primeira Etapa
+
+[x] Definir a questão do projeto
+[x] Achar fonte dos dados
+    [x] Chikungunya
+    [x] Municípios do estado de SP com DRS (procurar nos dados da saúde)
+[x] Realizar o Webscrapping
+[x] Tratar os dados
+[x] Armazenar os dados
+
+Segunda Etapa
+
+[] Criar dicionário de dados
+[] Realizar a análise descritiva dos dados
+[] Armazenar os dados filtrados
+[] 
+[]
+
+https://repositorio.seade.gov.br/dataset/municipios
