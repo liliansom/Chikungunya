@@ -8,13 +8,17 @@ Primeira Etapa
     [x] Chikungunya
     [x] Municípios do estado de SP com DRS (procurar nos dados da saúde)
 [x] Realizar o Webscrapping
+    [x] 2022
+    [x] 2023
 [x] Tratar os dados
 [x] Armazenar os dados
 
 Segunda Etapa
 
-[] Criar dicionário de dados
-[] Realizar a análise descritiva dos dados
+[x] Criar dicionário de dados
+[x] Importar Dados para MySQL
+
+[x] Realizar a análise descritiva dos dados
 [] Armazenar os dados filtrados
 [] 
 []
